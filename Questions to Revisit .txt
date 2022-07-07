@@ -1,0 +1,8 @@
+1. LeetCode 903 - https://leetcode.com/problems/valid-permutations-for-di-sequence/
+2. CodingNinjas - Missing and repeating number - https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_873366?topList=striver-sde-sheet-problems&leftPanelTab=1
+
+//See how to solve 3rd problem using o(n) space
+3. LeetCode 97 Interleaving String https://leetcode.com/problems/interleaving-string/
+
+//Solve this by the algo used to detect cycle in Linked List
+4. LeetCode 287 -https://leetcode.com/problems/find-the-duplicate-number/
