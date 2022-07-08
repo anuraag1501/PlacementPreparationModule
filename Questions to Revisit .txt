@@ -6,3 +6,5 @@
 
 //Solve this by the algo used to detect cycle in Linked List
 4. LeetCode 287 -https://leetcode.com/problems/find-the-duplicate-number/
+
+5. LeetCode https://leetcode.com/problems/paint-house-iii/
