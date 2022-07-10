@@ -11,3 +11,5 @@
 
 //Very Good LinkedList Question .... (Hint : Merge Sort)
 6. https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655
+
+7. https://leetcode.com/problems/jump-game-vi/
