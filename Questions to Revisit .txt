@@ -13,3 +13,16 @@
 6. https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655
 
 7. https://leetcode.com/problems/jump-game-vi/
+
+//Sort a stack using recursion
+8. https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275
+
+9. https://leetcode.com/problems/lru-cache/
+
+10. https://leetcode.com/problems/lfu-cache/
+
+11. https://leetcode.com/problems/online-stock-span/
+
+12. https://www.codingninjas.com/codestudio/problems/max-of-min_982935
+
+13. 
