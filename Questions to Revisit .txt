@@ -25,4 +25,10 @@
 
 12. https://www.codingninjas.com/codestudio/problems/max-of-min_982935
 
-13. 
+//Good One
+13. https://leetcode.com/problems/k-inverse-pairs-array/submissions/
+
+14.Traversals
+https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/45648/three-ways-of-iterative-postorder-traversing-easy-explanation
+
+15.

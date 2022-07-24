@@ -23,7 +23,7 @@ vector<int> BFS(int vertex, vector<pair<int, int>> edges) {
         int node = q.front();
         q.pop();
         
-        if(vis[node])
+        if(vis[node]) z
             continue;
 
         ans.push_back(node);
